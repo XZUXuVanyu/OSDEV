@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "optional": "cpp",
+        "charconv": "c",
+        "xmemory": "c",
+        "ostream": "c",
+        "atomic": "c",
+        "ios": "c",
+        "list": "c",
+        "system_error": "c",
+        "vector": "c",
+        "xhash": "c",
+        "xiosbase": "c",
+        "xstring": "c"
+    }
+}
