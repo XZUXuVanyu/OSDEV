@@ -12,6 +12,7 @@
         "vector": "c",
         "xhash": "c",
         "xiosbase": "c",
-        "xstring": "c"
+        "xstring": "c",
+        "xlocale": "cpp"
     }
 }
